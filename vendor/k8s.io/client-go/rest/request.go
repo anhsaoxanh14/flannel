@@ -18,7 +18,7 @@ package rest
 
 import (
 	"bytes"
-	"context"
+	"golang.org/x/net/context"
 	"encoding/hex"
 	"fmt"
 	"io"
